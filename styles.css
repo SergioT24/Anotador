@@ -129,3 +129,9 @@ form {
   width: 100%;
   padding: 15px;
 }
+
+img {
+  width: 25%;
+  padding: 1px;
+  margin-top: 5px;
+}
